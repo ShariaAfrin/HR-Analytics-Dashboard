@@ -1,2 +1,6 @@
-# HR-Analytics-Dashboard
-Power BI HR Analytics Dashboard analyzes employee turnover, diversity, job satisfaction, and performance using interactive charts and graphs.
+# 💼 HR Analytics Dashboard — Power BI Project
+
+This repository contains a Power BI project focused on HR analytics and employee attrition analysis. The dashboard provides actionable insights into employee demographics, attrition trends, satisfaction levels, and performance metrics to support HR decision-making and workforce planning.
+
+---
+
