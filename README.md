@@ -18,7 +18,7 @@ The HR Analytics Dashboard helps answer key business questions, such as:
 
 ## 📁 Dataset
 
-The dashboard is built using the **IBM HR Analytics Employee Attrition & Performance** dataset from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+The dashboard is built using the **IBM HR Analytics Employee Attrition & Performance** dataset from [Dataset](https://github.com/ShariaAfrin/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv).
 
 **Dataset Features Include:**
 - Age, Gender, Education, Job Role
