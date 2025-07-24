@@ -49,7 +49,7 @@ The dashboard is built using the **IBM HR Analytics Employee Attrition & Perform
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard Screenshot](images/hr_dashboard_preview.png) <!-- Optional: Include screenshot if available -->
+![HR Dashboard Screenshot](Dashboard.png) <!-- Optional: Include screenshot if available -->
 
 ---
 
