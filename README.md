@@ -18,7 +18,7 @@ The HR Analytics Dashboard helps answer key business questions, such as:
 
 ## 📁 Dataset
 
-The dashboard is built using the **IBM HR Analytics Employee Attrition & Performance** dataset from [Dataset](https://github.com/ShariaAfrin/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv).
+The dashboard is built using the **HR Analytics Employee Attrition & Performance** dataset from [Dataset](https://github.com/ShariaAfrin/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv).
 
 **Dataset Features Include:**
 - Age, Gender, Education, Job Role
@@ -33,16 +33,18 @@ The dashboard is built using the **IBM HR Analytics Employee Attrition & Perform
 - Microsoft Power BI (Desktop)
 - DAX (Data Analysis Expressions)
 - Power Query (M Language)
-- Data Modeling (Star schema)
 
 ---
 
 ## 📌 Key Visuals Used
 
-- Bar Charts & Column Charts
-- Pie & Donut Charts
-- Stacked Area Charts
+- Stacked Bar Chart
+- Stacked Column Chart
+- Donut Chart
+- Area Chart
+- Matrix
 - KPI Cards
+- Treemap
 - Slicers for interactive filtering
 
 ---
@@ -68,18 +70,6 @@ The dashboard is built using the **IBM HR Analytics Employee Attrition & Perform
 - Executive workforce insights
 - Recruitment and retention strategy
 - DEI (Diversity, Equity, and Inclusion) analysis
-
----
-
-## 📚 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository and suggest improvements via pull requests or issues.
 
 ---
 
